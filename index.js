@@ -1,4 +1,4 @@
-function BoardMember.prototype(){}(name, homeState,  training){
+function BoardMember(name, homeState,  training){
 
 this.name=name;
 this.homeState=homeState;
